@@ -1,0 +1,15 @@
+# be sure to not upload your scan results...
+/results_current.csv
+
+# install node modules via npm install
+node_modules/
+
+## Directory-based project format:
+.idea/
+
+## File-based project format:
+*.ipr
+*.iws
+
+# mpeltonen/sbt-idea plugin
+.idea_modules/

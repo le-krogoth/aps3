@@ -1,0 +1,32 @@
+{
+  "name": "aps3",
+  "version": "1.0.0",
+  "description": "App Store Scanning Script (aps3) to check your trademarks",
+  "main": "aps3.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/le-krogoth/aps3.git"
+  },
+  "keywords": [
+    "appstore",
+    "scanner",
+    "trademark"
+  ],
+  "author": "@le_krogoth",
+  "license": "AGPL-3.0",
+  "bugs": {
+    "url": "https://github.com/le-krogoth/aps3/issues"
+  },
+  "homepage": "https://github.com/le-krogoth/aps3#readme",
+  "dependencies": {
+    "async": "^1.5.0",
+    "chalk": "^1.1.1",
+    "commander": "^2.9.0",
+    "google-play-scraper": "^0.2.3",
+    "json-2-csv": "^2.0.5",
+    "searchitunes": "^2.1.1"
+  }
+}
